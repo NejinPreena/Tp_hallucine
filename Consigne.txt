@@ -1,0 +1,2 @@
+Ajouter des films et vérifier qu'ils s'affichent sur la page pour en faire des paginations. 
+Puis exporter le sql à nico.
